@@ -1,0 +1,9 @@
+[submodule "automation-engine"]
+	path = automation-engine
+	url = https://github.com/smh3005/automation-engine
+[submodule "cyberchase"]
+	path = cyberchase
+	url = https://github.com/smh3005/cyberchase
+[submodule "tg-22-getting-started"]
+	path = tg-22-getting-started
+	url = https://github.com/smh3005/tg-22-getting-started
